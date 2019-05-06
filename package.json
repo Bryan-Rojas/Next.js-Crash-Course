@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/Bryan-Rojas/Next.js-Crash-Course/issues"
   },
-  "homepage": "https://github.com/Bryan-Rojas/Next.js-Crash-Course#readme"
+  "homepage": "https://github.com/Bryan-Rojas/Next.js-Crash-Course#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
 }
