@@ -1,0 +1,22 @@
+{
+  "name": "Next.js-Crash-Course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryan-Rojas/Next.js-Crash-Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryan-Rojas/Next.js-Crash-Course/issues"
+  },
+  "homepage": "https://github.com/Bryan-Rojas/Next.js-Crash-Course#readme"
+}
